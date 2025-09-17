@@ -16,7 +16,7 @@ export const featuredHotelsData = {
       oldPrice: 560,
       reviews: 245,
       roomsLeft: 2,
-      img: "/images/bgHero.jpeg",
+      img: "/images/hotels/image1.jpeg",
       features: [],
     },
     {
@@ -27,7 +27,7 @@ export const featuredHotelsData = {
       oldPrice: 560,
       reviews: 245,
       roomsLeft: 2,
-      img: "/images/bgHero.jpeg",
+      img: "/images/hotels/image2.jpeg",
       features: [
         { name: "Private Beach", icon: FaUmbrellaBeach, bg: "bg-yellow-100", color: "text-yellow-600" },
         { name: "5 Restaurants", icon: MdRestaurant, bg: "bg-red-100", color: "text-red-500" },
@@ -43,7 +43,7 @@ export const featuredHotelsData = {
       oldPrice: 560,
       reviews: 245,
       roomsLeft: 2,
-      img: "/images/bgHero.jpeg",
+      img: "/images/hotels/image3.jpeg",
       features: [],
     },
     {
@@ -54,7 +54,7 @@ export const featuredHotelsData = {
       oldPrice: 560,
       reviews: 245,
       roomsLeft: 2,
-      img: "/images/bgHero.jpeg",
+      img: "/images/hotels/image2.jpeg",
       features: [],
     },
     {
@@ -65,7 +65,7 @@ export const featuredHotelsData = {
       oldPrice: 560,
       reviews: 245,
       roomsLeft: 2,
-      img: "/images/bgHero.jpeg",
+      img: "/images/hotels/image1.jpeg",
       features: [],
     },
     {
@@ -76,7 +76,7 @@ export const featuredHotelsData = {
       oldPrice: 560,
       reviews: 245,
       roomsLeft: 2,
-      img: "/images/bgHero.jpeg",
+      img: "/images/hotels/image3.jpeg",
       features: [],
     },
     {
@@ -87,7 +87,7 @@ export const featuredHotelsData = {
       oldPrice: 560,
       reviews: 245,
       roomsLeft: 2,
-      img: "/images/bgHero.jpeg",
+      img: "/images/hotels/image3.jpeg",
       features: [],
     },
     {
@@ -98,7 +98,7 @@ export const featuredHotelsData = {
       oldPrice: 560,
       reviews: 245,
       roomsLeft: 2,
-      img: "/images/bgHero.jpeg",
+      img: "/images/hotels/image2.jpeg",
       features: [],
     },
     {
@@ -109,7 +109,7 @@ export const featuredHotelsData = {
       oldPrice: 560,
       reviews: 245,
       roomsLeft: 2,
-      img: "/images/bgHero.jpeg",
+      img: "/images/hotels/image1.jpeg",
       features: [],
     },
   ],

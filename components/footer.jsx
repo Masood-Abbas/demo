@@ -3,9 +3,9 @@
 import Link from "next/link";
 import { FaFacebookF, FaTwitter, FaInstagram, FaLinkedinIn, FaYoutube } from "react-icons/fa";
 
-export default function Footer() {
+const Footer=()=> {
   return (
-    <footer className="bg-white border-t mt-16">
+    <footer className="bg-white">
       <div className="w-[95%] mx-auto px-3 py-8 grid grid-cols-2 md:grid-cols-5 gap-8 text-sm">
         
         {/* Explore */}
@@ -70,7 +70,7 @@ export default function Footer() {
             />
             <button
               type="submit"
-              className="bg-[#1D4ED8] w-[50%] text-white px-4 py-2 text-sm rounded-2xl font-medium "
+              className="bg-[#1D4ED8] md:w-[50%] text-white px-4 py-2 text-sm rounded-2xl font-medium "
             >
               Subscribe
             </button>
@@ -102,3 +102,4 @@ export default function Footer() {
     </footer>
   );
 }
+export default  Footer

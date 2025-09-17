@@ -10,32 +10,32 @@ export const featuredCountryData = {
     {
       id: 1,
       name: "Santorini, Greece",
-      img: "/images/bgHero.jpeg", 
+      img: "/images/destination/images1.jpeg", 
     },
     {
       id: 2,
       name: "Kyoto, Japan",
-      img: "/images/bgHero.jpeg", 
+      img: "/images/destination/images2.jpeg", 
     },
     {
       id: 3,
       name: "Cape Town, South Africa",
-      img: "/images/bgHero.jpeg", 
+      img: "/images/destination/images3.jpeg", 
     },
     {
       id: 4,
       name: "Paris, France",
-      img: "/images/bgHero.jpeg", 
+      img: "/images/destination/images2.jpeg", 
     },
     {
       id: 5,
       name: "Bali, Indonesia",
-      img: "/images/bgHero.jpeg", 
+      img: "/images/destination/images1.jpeg", 
     },
     {
       id: 6,
       name: "Banff, Canada",
-      img: "/images/bgHero.jpeg", 
+      img: "/images/destination/images3.jpeg", 
     },
   ],
 };

@@ -1,0 +1,21 @@
+.swiper-button-next,
+.swiper-button-prev {
+  width: 30px;
+  height: 30px;
+  background-color: #ccc;
+  border-radius: 50%;
+}
+
+.swiper-button-next,
+.swiper-button-prev {
+  color: black;
+}
+.swiper-navigation-icon{
+  width: 20px !important;
+  height: 20px !important;
+}
+
+.swiper-button-prev.swiper-button-disabled,
+.swiper-button-next.swiper-button-disabled {
+  display: none !important;
+}
